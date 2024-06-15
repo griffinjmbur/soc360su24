@@ -16,7 +16,7 @@ clear all
 
 // The questions about linemen
 import delimited using ///
-	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/HW1/linemen.csv"
+	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/week11/linemen.csv"
 	
 	* Some commentary here
 	
@@ -25,7 +25,7 @@ clear all
 // The questions about pain
 
 import delimited using ///
-	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/HW1/ex02-06bonding.csv"
+	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/week1/ex02-06bonding.csv"
 bysort condition: sum bonding, d
 
 	* Some commentary here
