@@ -26,5 +26,6 @@ clear all
 
 import delimited using ///
 	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/HW1/ex02-06bonding.csv"
+bysort condition: sum bonding, d
 
 	* Some commentary here
