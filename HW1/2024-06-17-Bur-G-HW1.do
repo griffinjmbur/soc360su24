@@ -16,7 +16,7 @@ clear all
 
 // The questions about linemen
 import delimited using ///
-	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/ex02-15linemen.csv"
+	"https://raw.githubusercontent.com/griffinjmbur/soc360su24public/mainSU24/HW1/linemen.csv"
 	
 	* Some commentary here
 	
